@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy:QRCodeComponent": "gh-pages -d QRCodeComponent"
+    "deploy:QRCodeComponent": "gh-pages -d QRCodeComponent",
+    "deploy": "gh-pages -d ."
   },
   "repository": {
     "type": "git",
