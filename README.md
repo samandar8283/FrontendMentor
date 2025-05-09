@@ -12,10 +12,10 @@ Bu repozitoriyda men Frontend Mentor platformasidagi turli loyihalarni mustaqil 
 
 Masalan:
 
-FrontendMentor/
-├── firstProject/
-├── secondProject/
-└── ...
+FrontendMentor/  
+├── firstProject/  
+├── secondProject/  
+└── ...  
 
 ---
 
@@ -33,7 +33,7 @@ This repository contains my solutions to various challenges from the Frontend Me
 
 For example:
 
-FrontendMentor/
-├── firstProject/
-├── secondProject/
-└── ...
+FrontendMentor/  
+├── firstProject/       
+├── secondProject/   
+└── ...  
