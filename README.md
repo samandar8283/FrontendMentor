@@ -14,7 +14,7 @@ Bu repozitoriyda men Frontend Mentor platformasidagi turli loyihalarni mustaqil 
 
 FrontendMentor/  
 ├── [QR Code Component](https://samandar8283.github.io/FrontendMentor/QRCodeComponent)  
-├── secondProject/  
+├── [Blog Preview Card](https://samandar8283.github.io/FrontendMentor/BlogPreviewCard)  
 └── ...  
 
 ---
@@ -35,5 +35,5 @@ This repository contains my solutions to various challenges from the Frontend Me
 
 FrontendMentor/  
 ├── [QR Code Component](https://samandar8283.github.io/FrontendMentor/QRCodeComponent)       
-├── secondProject/   
+├── [Blog Preview Card](https://samandar8283.github.io/FrontendMentor/BlogPreviewCard)   
 └── ...  
