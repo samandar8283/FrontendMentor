@@ -1,0 +1,98 @@
+@font-face {
+  font-family: "Figtree";
+  src: url("./../fonts/Figtree-VariableFont_wght.ttf") format(truetype);
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Figtree";
+  src: url("./../fonts/Figtree-Italic-VariableFont_wght.ttf") format(truetype);
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Figtree";
+  src: url("./../fonts/static/Figtree-Medium.ttf") format(truetype);
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Figtree";
+  src: url("./../fonts/static/Figtree-ExtraBold.ttf") format(truetype);
+  font-weight: 900;
+  font-style: normal;
+}
+body {
+  font-family: "Figtree";
+  line-height: 150%;
+}
+.name {
+    font-size: 60px;
+    font-weight: 900;
+}
+.container-fluid {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(244, 208, 78);
+}
+.article-card {
+    width: 387px;
+    padding: 24px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    margin: 0 auto;
+    box-shadow: 8px 8px 0 rgb(0, 0, 0);
+}
+.card-header {
+    margin-bottom: 24px;
+}
+.card-image {
+    width: 100%;
+    border-radius: 10px;
+}
+.article-theme {
+    padding: 4px 10px;
+    font-size: 14px;
+    font-weight: 900;
+    color: rgb(17, 17, 17);
+    background-color: rgb(244, 208, 78);
+    display: inline-block;
+    border-radius: 4px;
+    margin-bottom: 12px;
+}
+.published-date {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+.article-title {
+    font-size: 24px;
+    font-weight: 900;
+    margin-bottom: 12px;
+}
+.article-title:hover {
+    color: rgb(244, 208, 78);
+    cursor: pointer;
+}
+.article-description {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+.card-footer {
+    font-size: 14px;
+    font-weight: 900;
+}
+.card-footer img {
+    width: 32px;
+}
+@media only screen and (max-width: 575.9px) {
+    .name {
+        font-size: 40px;
+    }
+    .article-card {
+        width: 327px;
+    }
+}

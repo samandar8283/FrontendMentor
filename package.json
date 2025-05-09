@@ -1,0 +1,25 @@
+{
+  "name": "frontendmentor",
+  "version": "1.0.0",
+  "description": "Bu repozitoriyda men Frontend Mentor platformasidagi turli loyihalarni mustaqil tarzda amalga oshirganman. Har bir loyiha orqali HTML, CSS, JavaScript va responsiv dizayn ko‘nikmalarimni mustahkamlab boryapman.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy:QRCodeComponent": "gh-pages -d QRCodeComponent",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samandar8283/FrontendMentor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samandar8283/FrontendMentor/issues"
+  },
+  "homepage": "https://github.com/samandar8283/FrontendMentor#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}

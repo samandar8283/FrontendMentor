@@ -1,16 +1,39 @@
-# 📦 Frontend Mentor - QR Code Component Solution
+# 🧑‍💻 Frontend Mentor loyihalari
 
-This is a solution to the [QR Code Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). The goal of this challenge was to build a clean and responsive QR code component using HTML and CSS.
+Bu repozitoriyda men Frontend Mentor platformasidagi turli loyihalarni mustaqil tarzda amalga oshirganman. Har bir loyiha orqali HTML, CSS, JavaScript va responsiv dizayn ko‘nikmalarimni mustahkamlab boryapman.
 
-## 🚀 Features
+## 📚 Loyiha maqsadi
 
-- ✅ Fully responsive layout
-- 🎯 Minimal and clean design
-- 🧱 HTML5 semantic structure
-- 📐 CSS for styles
+- Amaliy mashqlar orqali frontend ko‘nikmalarimni kuchaytirish
+- Toza, tartibli va tushunarli Kod yozishga e’tibor qaratish
+- Portfolio uchun real ko‘rinishga ega sahifalar tayyorlash
 
-## 🛠️ Built With
+## 📁 Har bir loyiha alohida papkada joylashgan
 
-- HTML5
-- CSS3
-- Bootstrap
+### Loyihalar:
+
+FrontendMentor/  
+├── [QR Code Component](https://samandar8283.github.io/FrontendMentor/QRCodeComponent)  
+├── [Blog Preview Card](https://samandar8283.github.io/FrontendMentor/BlogPreviewCard)  
+└── ...  
+
+---
+
+# 🧑‍💻 Frontend Mentor Projects
+
+This repository contains my solutions to various challenges from the Frontend Mentor platform. These projects help me improve my frontend development skills, including HTML, CSS, JavaScript, and responsive design.
+
+## 🎯 Purpose of this repository
+
+- Improve practical skills by working on real design challenges
+- Practice clean code and better project structure
+- Build professional-looking projects for my portfolio
+
+## 📁 Each project is in its own folder
+
+### Projects:
+
+FrontendMentor/  
+├── [QR Code Component](https://samandar8283.github.io/FrontendMentor/QRCodeComponent)       
+├── [Blog Preview Card](https://samandar8283.github.io/FrontendMentor/BlogPreviewCard)   
+└── ...  
