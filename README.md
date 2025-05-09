@@ -10,7 +10,7 @@ Bu repozitoriyda men Frontend Mentor platformasidagi turli loyihalarni mustaqil 
 
 ## 📁 Har bir loyiha alohida papkada joylashgan
 
-Loyihalar:
+### Loyihalar:
 
 FrontendMentor/  
 ├── [QR Code Component](https://samandar8283.github.io/FrontendMentor/QRCodeComponent)  
@@ -31,7 +31,7 @@ This repository contains my solutions to various challenges from the Frontend Me
 
 ## 📁 Each project is in its own folder
 
-Projects:
+### Projects:
 
 FrontendMentor/  
 ├── [QR Code Component](https://samandar8283.github.io/FrontendMentor/QRCodeComponent)       
