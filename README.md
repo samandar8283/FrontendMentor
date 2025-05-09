@@ -1,4 +1,4 @@
-# 🧑‍💻 Frontend Mentor loyihalari / Frontend Mentor Projects
+# 🧑‍💻 Frontend Mentor loyihalari
 
 Bu repozitoriyda men Frontend Mentor platformasidagi turli loyihalarni mustaqil tarzda amalga oshirganman. Har bir loyiha orqali HTML, CSS, JavaScript va responsiv dizayn ko‘nikmalarimni mustahkamlab boryapman.
 
