@@ -1,0 +1,46 @@
+body {
+    font-family: "Outfit";
+}
+.container-fluid {
+    min-height: 100vh;
+    background-color: rgb(213, 225, 239);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.name {
+    font-size: 60px;
+    font-weight: 800;
+}
+.card {
+    width: 320px;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+    padding: 16px 16px 40px;
+    border-radius: 20px;
+}
+.card-image {
+    border-radius: 10px;
+}
+.card-title {
+    margin-top: 24px;
+    padding: 0 16px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 120%;
+    color: rgb(31, 49, 79);
+}
+.card-description {
+    margin-top: 10px;
+    padding: 0 16px;
+    font-size: 15px;
+    letter-spacing: 0.2px;
+    line-height: 150%;
+    color: rgb(104, 119, 141);
+}
+@media only screen and (max-width: 575.9px) {
+    .name {
+        font-size: 50px;
+    }
+}
